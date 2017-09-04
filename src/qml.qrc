@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/user_tank.qml</file>
+        <file>qml/brick_wall.qml</file>
+        <file>qml/armor_wall.qml</file>
+        <file>qml/enemy_tank.qml</file>
+        <file>qml/user_base.qml</file>
+        <file>levels/level_1.dat</file>
+        <file>qml/bullet.qml</file>
+    </qresource>
+</RCC>
